@@ -8,7 +8,7 @@ All notebooks open in Google Colab from the links below. To keep your own change
 
 | Session | Topic | Lecture notebook | Workshop notebook |
 |---|---|---|---|
-| 1 | Sampling distributions | [lecture01.ipynb](https://colab.research.google.com/github/aaubs/AQM/blob/main/lecture01/lecture01.ipynb) | Added before the session |
+| 1 | Sampling distributions | [lecture01.ipynb](https://colab.research.google.com/github/aaubs/AQM/blob/main/lecture01/lecture01.ipynb) | [workshop01.ipynb](https://colab.research.google.com/github/aaubs/AQM/blob/main/lecture01/workshop01.ipynb) |
 
 The lecture notebook holds the exercises we do during the lecture and all calculations from the slides. In the workshop notebook you write the code yourselves. Solutions to the workshop are added to the session's folder after the session.
 
