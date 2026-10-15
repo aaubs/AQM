@@ -19,7 +19,7 @@ The files are clean: there are no missing or impossible values. Messy data come 
 
 ```python
 import pandas as pd
-url = "https://raw.githubusercontent.com/aaubs/AQM/main/data/"
+url = "https://raw.githubusercontent.com/aaubs/AQM-2026/main/data/"
 sample = pd.read_csv(url + "orders_sample.csv")
 ```
 
