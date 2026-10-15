@@ -1,0 +1,9 @@
+# macOS and editors
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+
+# Secrets (kept outside the repository, listed as a safeguard)
+.env
+*.env
